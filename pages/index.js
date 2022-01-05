@@ -161,8 +161,8 @@ animate="visible"
 
 className={styles.social_icons}>
   <span><a href="https://instagram.com/themintinteriors/"><Image className={styles.image} src="/instagram.svg" width="15" height="15" /></a></span>
-  <span><a href="https://facebook.com/themintinteriors/"><Image className={styles.image} src="https://themintinteriors.com/facebook.svg" width="15" height="15" /></a></span>
-  <span><a href="https://linkedin.com/company/themintinteriors"><Image className={styles.image}src="https://themintinteriors.com/linkedin.svg" width="15" height="15" /></a></span>
+  <span><a href="https://facebook.com/themintinteriors/"><Image className={styles.image} src="/facebook.svg" width="15" height="15" /></a></span>
+  <span><a href="https://linkedin.com/company/themintinteriors"><Image className={styles.image}src="/linkedin.svg" width="15" height="15" /></a></span>
   
 </motion.div>
 <motion.div

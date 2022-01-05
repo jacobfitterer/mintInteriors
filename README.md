@@ -1,3 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bfd2006b-c100-4970-bbb1-36ee3c93b064/deploy-status)](https://app.netlify.com/sites/themintinteriors/deploys)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

@@ -62,9 +62,23 @@
  align-items: center;
  margin-top: 8rem;
 }
-.social_icons span {
-  padding: 0 .5rem;
+
+.social_icons span  {
+  height: 15px;
+  width: 15px;
+  position: relative;
+  margin: 0 .5rem;
 }
+@media(max-width:600px) {
+  .social_icons span  {
+    height: 22px;
+    width: 22px;
+    position: relative;
+    margin: 0 .5rem;
+  }
+  
+}
+
 
 @keyframes draw-line {
   0%{
@@ -99,6 +113,14 @@ main.h2 {
     width: 100%;
     flex-direction: column;
   }
+  .social_icons .image {
+
+
+  }
+
+
+
+  
 }
 
 .item {

@@ -9,7 +9,7 @@
   margin: 0 2rem;
 }
 .container{
-  background-color: rgba(229,227,215,1);
+  background-color: #f5f5f1;
 }
 
 /* GRID
@@ -35,7 +35,7 @@
   width: 300px;
 }
 .logo h1 {
-  color: #323232;
+  color: #5a605f;
   font-size: .625rem;
   text-transform: uppercase;
   letter-spacing: 3px;
@@ -46,7 +46,7 @@
 
 }
 .logo h2 {
-  color: #323232;
+  color: #5a605f;
   font-size: 1rem;
   text-transform:capitalize;
   text-align: center;
@@ -91,7 +91,7 @@
 
 }
 .vertical_line {
-  border-left: .5px solid #323232;
+  border-left: .5px solid #5a605f;
   height: 0px;
  left: 50%;
  position: absolute;
@@ -113,11 +113,6 @@ main.h2 {
     width: 100%;
     flex-direction: column;
   }
-  .social_icons .image {
-
-
-  }
-
 
 
   
@@ -133,12 +128,12 @@ main.h2 {
   align-items: center;
 }
 .logo_box {
-fill:#323232;
+fill:#5a605f;
 }
 .email_icon p {
 font-size: .8rem;
 margin-top: .5rem;
   text-align: center;
-  color: #323232;
+  color: #5a605f;
 
 }

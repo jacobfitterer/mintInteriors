@@ -93,7 +93,7 @@ export default function Home() {
         <meta name="twitter:card" content="Commercial & Residential Interior Design Studio" />
         <meta
           property="og:description"
-          content="Hurray!! Yes Social Media Preview is Working"
+          content="Commercial & Residential Interior Design Studio"
         />
         <meta property="og:image" content={"/favicon.ico"} />
         <link rel="icon" href="/favicon.ico" />

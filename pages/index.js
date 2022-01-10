@@ -168,13 +168,13 @@ animate="visible"
 <div className={styles.vertical_line}></div>
 <motion.div
 variants={fadeDownDelay}
-initial="hidden"n
+initial="hidden"
 animate="visible"
 
 className={styles.social_icons}>
   <span><a href="https://instagram.com/themintinteriors/"><Image layout="fill" src="/instagram.svg"  /></a></span>
-  <span><a href="https://facebook.com/themintinteriors/"><Image layout="fill" src="/facebook.svg"  /></a></span>
-  <span><a href="https://linkedin.com/company/themintinteriors"><Image layout="fill" src="/linkedin.svg" /></a></span>
+  <span><a href="https://www.facebook.com/themintinteriors"><Image layout="fill" src="/facebook.svg"  /></a></span>
+  <span><a href="https://www.linkedin.com/company/mint-interiors-studio"><Image layout="fill" src="/linkedin.svg" /></a></span>
   
 </motion.div>
 <motion.div
